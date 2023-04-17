@@ -145,22 +145,22 @@ plt.show()
 
 ## Output:
 ### i)Image Translation
-![model](out1.png)
+![out1](https://github.com/soundariyan18/Image-Transformation/blob/main/out1.png)
 
 ### ii) Image Scaling
-![model](out2.png)
+![out2](https://github.com/soundariyan18/Image-Transformation/blob/main/out2.png)
 
 
 ### iii)Image shearing
-![model](out3.png)
+![out3](https://github.com/soundariyan18/Image-Transformation/blob/main/out3.png)
 
 ### iv)Image Reflection
-![model](out4.png)
+![out4](https://github.com/soundariyan18/Image-Transformation/blob/main/out4.png)
 
 
 
 ### v)Image Rotation
-![model](out5.png)
+![out5](https://github.com/soundariyan18/Image-Transformation/blob/main/out5.png)
 
 
 

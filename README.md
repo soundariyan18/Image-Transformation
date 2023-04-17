@@ -145,22 +145,22 @@ plt.show()
 
 ## Output:
 ### i)Image Translation
-![Model](out1.png)
+![model](out1.png)
 
 ### ii) Image Scaling
-![Model](out2.png)
+![model](out2.png)
 
 
 ### iii)Image shearing
-![Model](out3.png)
+![model](out3.png)
 
 ### iv)Image Reflection
-![Model](out4.png)
+![model](out4.png)
 
 
 
 ### v)Image Rotation
-![Model](out5.png)
+![model](out5.png)
 
 
 
